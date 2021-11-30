@@ -8,4 +8,5 @@ int main(){
  
     cout<<"Learning git."<<endl;
     cout<<"creating conflicts"<<endl;
+    cout<<"checking";
 }
